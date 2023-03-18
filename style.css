@@ -1,0 +1,107 @@
+body{
+  text-align: center;
+}
+
+.top-container{
+    background-image:radial-gradient(ellipse, #0000,#1e1a1a), linear-gradient(0deg, #0000,#0007),url(images/HD.jpg); 
+    background-repeat: no-repeat;
+    height:750px;
+    color: #fff;
+    background-size: cover;
+
+    
+}
+.navbar{
+    padding: 2% 17% 1%;
+
+}
+.nav-item{
+    padding: 0 31%;
+  
+}
+.logo{
+    color: #fff;
+  width: 20px;
+  height: 20px;
+}
+
+.visit{
+    width:250px ;
+    height:350px;
+}
+
+.fa-regular{
+    width: 60px;
+    height: 60px;
+}
+.tours{
+    width: 500px;
+    height: 300px;
+    
+}
+.head1{
+    padding-top: 2%;
+}
+.middle-container{
+ background-color:#1e1a1a;
+   color: #fff;
+}
+
+.head{
+  padding: 1% 0 ;
+}
+.head-info{
+    padding: 0 35% 3%;
+    line-height: 2rem;
+}
+.s-head{
+    line-height: 3rem;
+}
+.info{
+    padding: 0 25%;
+    line-height: 2rem;
+}
+
+.extra-info{
+    padding: 3% 0;
+
+}
+.para{
+    padding: 1% 33% 2%;
+    line-height: 2rem;
+}
+
+.heading{
+    font-family: 'Gloock', serif;
+    padding-top: 10%;
+    font-size: 60px;
+}
+.places{
+font-family: 'Gloock', serif;
+}
+.playbutton{
+   padding-top: 25px;
+   padding-right: 5%;
+}
+
+.bottom-container{
+    background-image: radial-gradient(ellipse, #0000,#0007), linear-gradient(2deg, #0000,#0007),url(images/eve.jpg);
+    text-align: center;
+    padding: 50% 10% 0;
+    color: #fff;
+    background-position:center ;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.copyright{
+    padding: 0 5% 0;
+    font-size: 15px;
+
+}
+.footer{
+    padding: 2% 5% 9%;
+}
+.sym{
+    padding-right: 5%;
+}
